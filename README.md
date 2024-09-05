@@ -4,7 +4,7 @@
 
 ```json
 {
-    "pronouns": "he/him",
+    "pronouns": "He/Him",
     "previous_internships": [
         "@IIT-BHU",
         "@RRSC(Meh)",
